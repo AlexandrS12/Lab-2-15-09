@@ -71,6 +71,7 @@ int main()
 		cout << "date1 <= date2" << endl;
 	}
 
+
 	if (date1 == date2) {
 		cout << "date1 == date2" << endl;
 	}
